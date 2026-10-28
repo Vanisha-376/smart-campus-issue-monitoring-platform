@@ -1,0 +1,15 @@
+node_modules/
+.env
+backend/.env
+**/node_modules/
+.env
+backend/.env
+dist/
+**/dist/
+.env.local
+.env.production
+*.log
+.DS_Store
+.vscode/
+backend/data/store.json
+!backend/data/.gitkeep
